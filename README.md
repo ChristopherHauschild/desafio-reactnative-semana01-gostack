@@ -3,7 +3,7 @@
 </div> <br />
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?label=react%native&message=mobile&color=purple&style=for-the-badge&logo=REACT"/>
+  <img src="https://img.shields.io/static/v1?label=react%20native&message=mobile&color=purple&style=for-the-badge&logo=REACT"/>
 </div>
 
 # <p align="center">Desafio - Mobile com React Native</p>
